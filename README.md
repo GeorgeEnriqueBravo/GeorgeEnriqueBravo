@@ -15,6 +15,7 @@ Gosto de desenvolver soluções e aprender. Quanto mais aprendo mais minha sede 
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+    <img align="right" width="50%" alt="Brain UP" src="imagens/brain-gb.gif"/>
 </div>
 
 <h2> Tecnologias em Desenvolvimento <img width="2.5%" alt="💭" src="imagens/BlackGif.gif"/></h2>
@@ -22,7 +23,6 @@ Gosto de desenvolver soluções e aprender. Quanto mais aprendo mais minha sede 
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img align="right" width="35%" alt="Brain UP" src="imagens/brain-gb.gif"/>
 </div>
 
 <h2>Contato</h2>
