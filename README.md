@@ -1,4 +1,4 @@
-### __Olá! Muito prazer, meu nome é George Bravo__ 💪😎👌
+### __Olá! Muito prazer, meu nome é George Bravo__ 💪😁👌
 Descobri meu interesse por programação editando "mods" para jogos na linguagem `.Lua` de forma autodidata. A satisfação de conseguir criar modificações para os jogos e ver elas funcionando foi incrível. Percebi que comecei a me divertir mais modificando/programando e vendo meus resultados do que jogando em si.
 
 Estudante de Desenvolvimento Front-end Junior em transição de carreira (HTML / CSS / JavaScript). Isso pra começar claro, pois muito em breve rumo ao Full Stack 📚📖😏🧠💡🚀
@@ -39,5 +39,10 @@ Gosto de desenvolver soluções e aprender. Quanto mais aprendo mais minha sede 
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact&theme=dark"/> -->
+
+![snake gif](https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/output/github-contribution-grid-snake.svg)
+      
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/GeorgeEnriqueBravo/count.svg" /></p>
+      
 </div>
 
