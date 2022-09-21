@@ -1,7 +1,7 @@
-### __Olá! Meu nome é George Bravo__ 💪😎👌
-Descobri meu interesse por programação editando mods para jogos na linguagem `.Lua` de forma autodidata. A satisfação de conseguir alterar os mods e ver os jogos funcionando com minhas alterações era incrível.
+### __Olá! Muito prazer, meu nome é George Bravo__ 💪😎👌
+Descobri meu interesse por programação editando "mods" para jogos na linguagem `.Lua` de forma autodidata. A satisfação de conseguir criar modificações para os jogos e ver elas funcionando foi incrível. Percebi que comecei a me divertir mais modificando/programando e vendo seus resultados com sucesso do que jogando em si.
 
-Estudante de Desenvolvimento Front-end Junior em transição de carreira ( HTML / CSS / JavaScript ).
+Estudante de Desenvolvimento Front-end Junior em transição de carreira (HTML / CSS / JavaScript). Isso pra começar claro, pois muito em breve rumo ao Full Stack 📚📖😎🧠💡🚀
 
 Gosto de desenvolver soluções que resolvam os problemas das pessoas. Adoro desafios.
 
@@ -33,6 +33,6 @@ Gosto de desenvolver soluções que resolvam os problemas das pessoas. Adoro des
 
 
 ---
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo)](https://github.com/georgeenriquebravo/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark)]
 ![George Bravo GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark)
-<!-- [![Linguagens mais usadas compacta](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact)](https://github.com/georgeenriquebravo/github-readme-stats) -->
+<!-- [![Linguagens mais usadas compacta](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact&theme=dark)] -->
