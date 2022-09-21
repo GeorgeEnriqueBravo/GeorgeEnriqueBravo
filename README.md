@@ -17,11 +17,12 @@ Gosto de desenvolver soluções e aprender. Quanto mais aprendo mais minha sede 
     <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </div>
 
-<h2> Tecnologias em Desenvolvimento <img width="2.5%" alt="💭" src="BlackGif.gif"/></h2>
+<h2> Tecnologias em Desenvolvimento <img width="2.5%" alt="💭" src="imagens/BlackGif.gif"/></h2>
 <div style="display: inline_block">
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img align="right" width="35%" alt="Brain UP" src="imagens/brain-gif.gif"/>
 </div>
 
 <h2>Contato</h2>
@@ -31,8 +32,12 @@ Gosto de desenvolver soluções e aprender. Quanto mais aprendo mais minha sede 
 [![Hotmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:george_enrique@hotmail.com)
 <!-- [![Hotmail Badge)](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:george_enrique@hotmail.com)](mailto:george_enrique@hotmail.com) -->
 
-
 ---
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark)]
-![George Bravo GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark)
-<!-- [![Linguagens mais usadas compacta](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact&theme=dark)] -->
+
+<div align="center">
+  <a href="https://github.com/georgeenriquebravo">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact&theme=dark"/> -->
+</div>
+
