@@ -3,7 +3,7 @@ Descobri meu interesse por programação editando "mods" para jogos na linguagem
 
 Estudante de Desenvolvimento Front-end Junior em transição de carreira (HTML / CSS / JavaScript). Isso pra começar claro, pois muito em breve rumo ao Full Stack 📚📖😏🧠💡🚀
 
-Gosto de desenvolver soluções e aprender. Quanto mais aprendo mais minha sede por conhecimento também aumenta. Adoro desafios.
+Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais aprendo mais minha sede por conhecimento também aumenta. Adoro desafios.
 
 ---
 
