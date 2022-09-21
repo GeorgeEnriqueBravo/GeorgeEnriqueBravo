@@ -19,7 +19,9 @@ Gosto de desenvolver soluções e aprender. Quanto mais aprendo mais minha sede 
 
 <h2> Tecnologias em Desenvolvimento <img width="2.5%" alt="💭" src="imagens/BlackGif.gif"/></h2>
 <div style="display: inline_block">
-    <img align="right" width="49%" alt="Brain UP" src="imagens/brain-gb.gif"/>
+    <a href="https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/main/brain.md">
+        <img align="right" width="49%" alt="Brain UP" src="imagens/brain-gb.gif"/>
+    </a>
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -35,9 +37,10 @@ Gosto de desenvolver soluções e aprender. Quanto mais aprendo mais minha sede 
 ---
 
 <div align="center">
-  <a href="https://github.com/georgeenriquebravo">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+    <a href="https://github.com/georgeenriquebravo">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+    </a>
     <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact&theme=dark"/> -->
 
 ![snake gif](https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/output/github-contribution-grid-snake.svg)
