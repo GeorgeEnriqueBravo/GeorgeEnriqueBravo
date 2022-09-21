@@ -31,5 +31,8 @@ Gosto de desenvolver soluções que resolvam os problemas das pessoas. Adoro des
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:george_enrique@hotmail.com)](mailto:george_enrique@hotmail.com)
 
 ---
-
 ![George Bravo GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo)](https://github.com/georgeenriquebravo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact)](https://github.com/georgeenriquebravo/github-readme-stats)
+
+<!-- ![George Bravo GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark) -->
