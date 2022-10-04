@@ -1,4 +1,4 @@
-### __Olá! Muito prazer, meu nome é George Bravo.__ 💪😎👌
+### __Olá! Muito prazer, meu nome é George Bravo__ 💪😎👌
 Descobri meu interesse por programação editando "mods" para jogos na linguagem `.Lua` de forma autodidata. A satisfação de conseguir criar modificações para os jogos e vê-las funcionando foi incrível. Percebi que comecei a me divertir mais modificando/programando e vendo meus resultados do que jogando em si.
 
 Sou Bacharel em Publicidade e Propaganda. Atualmente estudante de Desenvolvimento Front-End em transição de carreira (HTML / CSS / JavaScript). Isso pra começar claro, pois muito em breve rumo ao Full Stack 📚📖😏🧠💡🚀
