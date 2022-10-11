@@ -17,7 +17,7 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
     <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </div>
 
-<h2> Tecnologias em Desenvolvimento <img width="2.5%" alt="💭" src="imagens/BlackGif.gif"/></h2>
+<h2> Tecnologias em Desenvolvimento <img width="30px" alt="💭" src="imagens/BlackGif.gif"/></h2>
 <div style="display: inline_block">
     <a href="https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/main/brain.md" target="_blank">
         <img align="right" width="49%" alt="Brain UP" src="imagens/brain-gb.gif"/>
