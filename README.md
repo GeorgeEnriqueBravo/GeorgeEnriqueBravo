@@ -22,6 +22,7 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
     <a href="https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/main/brain.md" target="_blank">
         <img align="right" width="49%" alt="Brain UP" src="imagens/brain-gb.gif"/>
     </a>
+    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
