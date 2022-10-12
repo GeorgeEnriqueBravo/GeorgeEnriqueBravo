@@ -1,4 +1,5 @@
-### __Olá! Muito prazer, meu nome é George Bravo__ 💪😎👌
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&width=520&height=40&lines=Ol%C3%A1!+Muito+prazer%2C+meu+nome+%C3%A9+George+Bravo!)](https://git.io/typing-svg)
+
 Descobri meu interesse por programação editando "mods" para jogos na linguagem `.Lua` de forma autodidata. A satisfação de conseguir criar modificações para os jogos e vê-las funcionando foi incrível. Percebi que comecei a me divertir mais modificando/programando e vendo meus resultados do que jogando em si.
 
 Sou Bacharel em Publicidade e Propaganda. Atualmente sou estudante de Desenvolvimento Full-Stack no DEVinHouse [Philips] - SENAI/SC. 📚📖😏🧠💡🚀
