@@ -5,7 +5,7 @@ Descobri meu interesse por programação editando "mods" para jogos na linguagem
 
 Sou Bacharel em Publicidade e Propaganda. Atualmente sou estudante de Desenvolvimento Full-Stack no DEVinHouse [Philips] - SENAI/SC. 📚📖😏🧠💡🚀
 
-Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais aprendo mais minha sede por conhecimento também aumenta. Adoro desafios.=
+Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais aprendo mais minha sede por conhecimento também aumenta. Adoro desafios.
 
 ---
 
