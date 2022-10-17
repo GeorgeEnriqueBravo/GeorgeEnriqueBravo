@@ -42,34 +42,19 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
 ---
 
 <div align="center">
-    <a href="https://github.com/georgeenriquebravo">
-        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
-        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="269em" src="https://activity-graph.herokuapp.com/graph?username=georgeenriquebravo&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11"/>
-    </a>
-    
-<!-- <img height="250em" alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=georgeenriquebravo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> -->
 
-<!-- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact&theme=dark"/> -->
-
-![snake gif](https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/output/github-contribution-grid-snake.svg)
-
-<!--
 <details>
-<summary>My GitHub Stats</summary>
+<summary>My GitHub Stats</summary> <br>
 <div align="center">
-    <p align="center">Cartões</p>
     <a href="https://github.com/georgeenriquebravo">
         <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
         <img height="190em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </a>
-        <p align="center">Gráfico</p>
     <a href="https://github.com/georgeenriquebravo">
         <img height="269em" src="https://activity-graph.herokuapp.com/graph?username=georgeenriquebravo&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11"/>
     </a>
 </div>
 </details>
--->
 
 <details>
 <summary>Visitantes</summary>
@@ -78,6 +63,20 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
     <img alt="visitors counter" src="https://profile-counter.glitch.me/GeorgeEnriqueBravo/count.svg">
 </div>
 </details>
+
+<!--
+    <a href="https://github.com/georgeenriquebravo">
+        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
+        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="269em" src="https://activity-graph.herokuapp.com/graph?username=georgeenriquebravo&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11"/>
+    </a>
+-->
+
+<!-- <img height="250em" alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=georgeenriquebravo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> -->
+
+<!-- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact&theme=dark"/> -->
+
+![snake gif](https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/output/github-contribution-grid-snake.svg)
       
 </div>
 
