@@ -41,8 +41,8 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
 
 ---
 
-<div align="left">
-<details>
+<div align="center">
+    <details>
     <summary>My GitHub Stats</summary> <br>
     <div align="center">
         <a href="https://github.com/georgeenriquebravo">
@@ -56,13 +56,15 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
     </details>
 </div>
 
-<details>
-<summary>Visitantes</summary>
-<p align="center">Até agora:</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/GeorgeEnriqueBravo/count.svg">
+    <details>
+    <summary>Visitantes</summary>
+    <p align="center">Até agora:</p>
+    <div align="center">
+        <img alt="visitors counter" src="https://profile-counter.glitch.me/GeorgeEnriqueBravo/count.svg">
+    </div>
+    </details>
 </div>
-</details>
 
 <!--
     <a href="https://github.com/georgeenriquebravo">
