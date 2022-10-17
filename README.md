@@ -41,20 +41,20 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
 
 ---
 
-<div align="center">
-
+<div align="left">
 <details>
-<summary>My GitHub Stats</summary> <br>
-<div align="center">
-    <a href="https://github.com/georgeenriquebravo">
-        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
-        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/georgeenriquebravo">
-        <img height="269em" src="https://activity-graph.herokuapp.com/graph?username=georgeenriquebravo&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11"/>
-    </a>
+    <summary>My GitHub Stats</summary> <br>
+    <div align="center">
+        <a href="https://github.com/georgeenriquebravo">
+            <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
+            <img height="190em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        </a>
+        <a href="https://github.com/georgeenriquebravo">
+            <img height="269em" src="https://activity-graph.herokuapp.com/graph?username=georgeenriquebravo&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11"/>
+        </a>
+    </div>
+    </details>
 </div>
-</details>
 
 <details>
 <summary>Visitantes</summary>
@@ -76,8 +76,10 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
 
 <!-- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact&theme=dark"/> -->
 
-![snake gif](https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/output/github-contribution-grid-snake.svg)
-      
+<div align="center">
+
+![snake gif](https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/output/github-contribution-grid-snake.svg)  
+
 </div>
 
 <a href="https://github.com/georgeenriquebravo"><img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=125&section=footer&fontSize=40&fontColor=fff&animation=twinkling&theme=dark"/></a>
