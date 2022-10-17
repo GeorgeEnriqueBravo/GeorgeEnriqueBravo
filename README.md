@@ -45,9 +45,12 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
     <a href="https://github.com/georgeenriquebravo">
         <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
         <img height="190em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <!-- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact&theme=dark"/> -->
-        <img height="250em" alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=georgeenriquebravo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+        <img height="269em" src="https://activity-graph.herokuapp.com/graph?username=georgeenriquebravo&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11"/>
     </a>
+    
+<!-- <img height="250em" alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=georgeenriquebravo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> -->
+
+<!-- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact&theme=dark"/> -->
 
 ![snake gif](https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/output/github-contribution-grid-snake.svg)
       
