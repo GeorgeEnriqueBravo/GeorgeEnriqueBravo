@@ -53,8 +53,14 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
 <!-- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact&theme=dark"/> -->
 
 ![snake gif](https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/output/github-contribution-grid-snake.svg)
-      
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/GeorgeEnriqueBravo/count.svg" /></p>
+
+<details>
+<summary>Visitantes</summary>
+<p align="center">Até agora:</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/GeorgeEnriqueBravo/count.svg">
+</div>
+</details>
       
 </div>
 
