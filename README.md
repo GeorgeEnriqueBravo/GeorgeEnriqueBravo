@@ -54,6 +54,23 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
 
 ![snake gif](https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/output/github-contribution-grid-snake.svg)
 
+<!--
+<details>
+<summary>My GitHub Stats</summary>
+<div align="center">
+    <p align="center">Cartões</p>
+    <a href="https://github.com/georgeenriquebravo">
+        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
+        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </a>
+        <p align="center">Gráfico</p>
+    <a href="https://github.com/georgeenriquebravo">
+        <img height="269em" src="https://activity-graph.herokuapp.com/graph?username=georgeenriquebravo&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11"/>
+    </a>
+</div>
+</details>
+-->
+
 <details>
 <summary>Visitantes</summary>
 <p align="center">Até agora:</p>
