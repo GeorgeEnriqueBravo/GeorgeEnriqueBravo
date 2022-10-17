@@ -1,3 +1,5 @@
+<img width=100% title="George Bravo" alt="George Bravo" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=George%20Bravo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=20&theme=dark"/>
+
 <a href="https://github.com/georgeenriquebravo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=539BF5&background=FFFFFF00&width=520&height=30&lines=Ol%C3%A1!+Muito+prazer%2C+meu+nome+%C3%A9+George+Bravo!)](https://git.io/typing-svg"></a><br/>
 Descobri meu interesse por programação editando "mods" para jogos na linguagem `.Lua` de forma autodidata. A satisfação de conseguir criar modificações para os jogos e vê-las funcionando foi incrível. Percebi que comecei a me divertir mais modificando/programando e vendo meus resultados do que jogando em si.
 
@@ -44,7 +46,7 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
         <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
         <img height="190em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
         <!-- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&layout=compact&theme=dark"/> -->
-        <img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=georgeenriquebravo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+        <img height="250em" alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=georgeenriquebravo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
     </a>
 
 ![snake gif](https://github.com/GeorgeEnriqueBravo/GeorgeEnriqueBravo/blob/output/github-contribution-grid-snake.svg)
@@ -53,3 +55,4 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
       
 </div>
 
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=125&section=footer&fontSize=40&fontColor=fff&animation=twinkling&theme=dark"/>
