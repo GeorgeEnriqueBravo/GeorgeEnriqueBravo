@@ -46,11 +46,11 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
     <summary>My GitHub Stats</summary> <br>
     <div align="center">
         <a href="https://github.com/georgeenriquebravo">
-            <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
-            <img height="280em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+            <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeenriquebravo&show_icons=true&theme=dark"/>
+            <img height="200em" src="https://github-readme-stats.vercel.app/api?username=georgeenriquebravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
         </a>
         <a href="https://github.com/georgeenriquebravo">
-            <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=georgeenriquebravo&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11"/>
+            <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=georgeenriquebravo&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11"/>
         </a>
     </div>
     </details>
