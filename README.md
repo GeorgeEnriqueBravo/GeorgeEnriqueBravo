@@ -9,7 +9,7 @@ Gosto de desenvolver soluções para problemas e aprender com eles. Quanto mais 
 
 ---
 
-<h2>Tecnologias Desenvolvidas ✔️</h2>
+<h2>Tecnologias Desenvolvidas ✔️</h2>=
 
 <div style="display: inline_block">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
